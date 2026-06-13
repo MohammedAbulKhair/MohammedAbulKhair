@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Mohammed Abul Khair
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0073BB,100:4CAF50&height=200&section=header&text=AWS%20%7C%20AI%20Engineer&fontSize=40&fontColor=ffffff)
 
-![Skills](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-
 ![Typing](https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=MS+Azure+Engineer;AWS+Cloud+Engineer;AI+%26+Serverless+Developer;Building+Real+World+AI+Systems)
 
 <div align="center">
