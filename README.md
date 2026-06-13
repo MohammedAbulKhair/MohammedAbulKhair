@@ -10,7 +10,6 @@
 ![Skills](https://skillicons.dev/icons?i=azure,aws,mysql,cs,python,vscode,visualstudio,github,jira,tableau,azuredevops&perline=6)
 
 </div>
-``
 
 🚀 AWS Cloud & AI Engineer | Serverless Architecture | Real-Time AI Systems  
 📍 Fairfax, Virginia, USA  
