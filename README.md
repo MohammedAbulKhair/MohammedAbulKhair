@@ -3,7 +3,7 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=MS+Azure+Engineer;AWS+Cloud+Engineer;AI+%26+Serverless+Developer;Building+Real+World+AI+Systems)
 
-![Skills](https://skillicons.dev/icons?i=azure,aws,MySQL,C#,python,tableau,VSCode,Microsoftvisualstudio,GitHub,Jira,Teams)
+![Skills](https://skillicons.dev/icons?i=azure,aws,mysql,cs,python,tableau,vscode,visualstudio,github,jira,azuredevops)
 
 
 🚀 AWS Cloud & AI Engineer | Serverless Architecture | Real-Time AI Systems  
