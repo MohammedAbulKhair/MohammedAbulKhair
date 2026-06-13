@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Mohammed Abul Khair
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=F700FF&lines=MS_Azure;AWS+Cloud+Engineer;AI+%26+Serverless+Developer;Building+Real-World+AI+Systems
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0073BB,100:4CAF50&height=200&section=header&text=AWS%20%7C%20AI%20Engineer&fontSize=40&fontColor=ffffff)
+
+![Typing](https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=MS+Azure+Engineer;AWS+Cloud+Engineer;AI+%26+Serverless+Developer;Building+Real+World+AI+Systems)
+
+![Skills](https://skillicons.dev/icons?i=aws,python,azure)
+
 
 🚀 AWS Cloud & AI Engineer | Serverless Architecture | Real-Time AI Systems  
 📍 Fairfax, Virginia, USA  
